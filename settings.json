@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "falixlobby.falix.gg",
-    "port": 22816,
+    "ip": "join.falix.gg",
+    "port": 30726,
     "version": "",
     "try-creative": false
   },
